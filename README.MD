@@ -1,5 +1,5 @@
 # 📊 Informe Semántico del Proyecto Integrador - RENACE
-
+# Estudiante: Chirinos Negron Sebastian Arley 
 ## 1. Descripción del Corpus Extendido
 
 El sistema utiliza un corpus de **36 registros técnicos** en español, balanceado con 12 documentos por cada dominio crítico de la red RENACE:
